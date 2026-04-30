@@ -16,4 +16,4 @@
 
 ## History
 
-<!-- Keep this Updates, earliest to latest -->
+- 2025-04-30: Initial Next.js and Tailwind setup (commit 6720ac3)
