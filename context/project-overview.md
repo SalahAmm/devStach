@@ -361,7 +361,7 @@ Item
 
 | Layer | Choice | Notes |
 |---|---|---|
-| **Framework** | [Next.js 15](https://nextjs.org) (App Router) | React 19, RSC, Server Actions |
+| **Framework** | [Next.js 16](https://nextjs.org) (App Router) | React 19, RSC, Server Actions |
 | **Language** | TypeScript (strict mode) | End-to-end type safety |
 | **Database** | [Neon PostgreSQL](https://neon.tech) | Serverless Postgres, branching |
 | **ORM** | [Prisma 6](https://prisma.io) | Type-safe queries, migrations |
@@ -513,6 +513,14 @@ Return to client → Optimistic UI update
 - **Desktop (≥1024px):** Persistent sidebar + grid/list workspace
 - **Tablet (768–1024px):** Collapsible sidebar (icon-only collapsed)
 - **Mobile (<768px):** Bottom sheet drawer for sidebar, single column list
+
+### ScreenShots 
+
+ - Refer to the screenshots below as a base for the dashboard ui , it does't have to be exact. Use it as a Refrence :
+
+  - @context/screenshots/dashboard-ui-main.png 
+  - @context/screenshots/dashboard-ui-drawer.png
+
 
 ---
 
